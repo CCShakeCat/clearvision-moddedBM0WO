@@ -517,7 +517,7 @@
     },
     "background": {
         "url": "https://rule34xyz.b-cdn.net/posts/3225/3225526/3225526.picsmall.jpg",
-	"alpha": 1
+	"alpha": 0.5
     },
     "plus": {
         "version": 0,
